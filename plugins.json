@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/TamilYogiProvider/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+        "fileSize": 11608,
+        "status": 1,
+        "language": "ta",
+        "authors": [
+            "LikDev-256"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "TamilYogiProvider",
+        "description": "Tamil Only Provider with frequent updates",
+        "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/TamilYogiProvider.cs3",
+        "name": "TamilYogiProvider"
+    }
+]
