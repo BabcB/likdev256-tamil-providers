@@ -10,8 +10,8 @@ import com.lagradost.cloudstream3.utils.*
 import org.jsoup.nodes.Element
 
 class TamilYogiProvider : MainAPI() { // all providers must be an instance of MainAPI
-    override var mainUrl = "https://tamilyogi.plus"
-    override var name = "TamilYogi"
+    override var mainUrl = "https://tamilvip.best"
+    override var name = "TamilVip"
     override val hasMainPage = true
     override var lang = "ta"
     override val hasDownloadSupport = true
